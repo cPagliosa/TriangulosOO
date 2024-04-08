@@ -1,4 +1,4 @@
-# Triangulos Orietado a Objetos
+# Triangulos Orientado a Objetos
 
 ## Projeto
 
